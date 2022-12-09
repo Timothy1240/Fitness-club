@@ -88,7 +88,7 @@
    <h2><center id="forimage"> In Our glorious, maddening city, your workout can be the difference between good day and bad. </center></h2><br><br><br>
    <hr>
                <center ><h1><b>ABOUT US</b></h1>
-            <h4 id="forabout">HVY.Fitness Club is not only a club,its a lifestyle.
+            <h4 id="forabout">
                 A modern take on fitness that flips your world up-side down.<br><br><br>
                 We believe in creating an environment, where our clients and staff can feel comfortable. 
                 A place where you can be yourself and everyone is treated as an equal<br><br><br>
